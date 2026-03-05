@@ -4,8 +4,7 @@ import connectDB from './src/db/db.js'
 
 dotenv.config()
 connectDB()
-
-app.listen(3000, () => {
-    console.log(3000)
+app.listen(4000, () => {
+    console.log("server running on http://localhost:4000");
+    
 })
-
