@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dependencies
 node_modules/
 
@@ -16,3 +17,7 @@ build
 # OS files
 .DS_Store
 Thumbs.db
+=======
+node_modules
+.env
+>>>>>>> 3ea95c9f9efa602f1be107c60e24c6e9d4a19266
